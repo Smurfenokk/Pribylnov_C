@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props"
+            Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')"/>
+    <PropertyGroup>
+        <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+        <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+        <ProjectGuid>{150F3FC4-6F14-4AF7-BFFC-85B4A931A4D6}</ProjectGuid>
+        <OutputType>Library</OutputType>
+        <AppDesignerFolder>Properties</AppDesignerFolder>
+        <RootNamespace>Pribylnov_C</RootNamespace>
+        <AssemblyName>Pribylnov_C</AssemblyName>
+        <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+        <FileAlignment>512</FileAlignment>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugSymbols>true</DebugSymbols>
+        <DebugType>full</DebugType>
+        <Optimize>false</Optimize>
+        <OutputPath>bin\Debug\</OutputPath>
+        <DefineConstants>DEBUG;TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+        <PlatformTarget>AnyCPU</PlatformTarget>
+        <DebugType>pdbonly</DebugType>
+        <Optimize>true</Optimize>
+        <OutputPath>bin\Release\</OutputPath>
+        <DefineConstants>TRACE</DefineConstants>
+        <ErrorReport>prompt</ErrorReport>
+        <WarningLevel>4</WarningLevel>
+    </PropertyGroup>
+    <ItemGroup>
+        <Reference Include="System"/>
+        <Reference Include="System.Core"/>
+        <Reference Include="System.Data"/>
+        <Reference Include="System.Xml"/>
+    </ItemGroup>
+    <ItemGroup>
+        <Compile Include="Properties\AssemblyInfo.cs"/>
+    </ItemGroup>
+    <ItemGroup>
+      <ClCompile Include="n10\n10.c" />
+      <ClCompile Include="n11\n11.c" />
+      <ClCompile Include="n12\n12.c" />
+      <ClCompile Include="n13\n13.c" />
+      <ClCompile Include="n14\n14.c" />
+      <ClCompile Include="n15\n15.c" />
+      <ClCompile Include="n16\n16.c" />
+      <ClCompile Include="n17\n17.c" />
+      <ClCompile Include="n18\n18.c" />
+      <ClCompile Include="n19\n19.c" />
+      <ClCompile Include="n1\n1.c" />
+      <ClCompile Include="n20\n20.c" />
+      <ClCompile Include="n21\n21.c" />
+      <ClCompile Include="n22\n22.c" />
+      <ClCompile Include="n23\n23.c" />
+      <ClCompile Include="n24\n24.c" />
+      <ClCompile Include="n25\n25.c" />
+      <ClCompile Include="n26\n26.c" />
+      <ClCompile Include="n27\n27.c" />
+      <ClCompile Include="n28\n28.c" />
+      <ClCompile Include="n29\n29.c" />
+      <ClCompile Include="n2\n2.c" />
+      <ClCompile Include="n30\n30.c" />
+      <ClCompile Include="n31\n31.c" />
+      <ClCompile Include="n32\n32.c" />
+      <ClCompile Include="n33\n33.c" />
+      <ClCompile Include="n34\n34.c" />
+      <ClCompile Include="n35\n35.c" />
+      <ClCompile Include="n36\n36.c" />
+      <ClCompile Include="n37\n37.c" />
+      <ClCompile Include="n38\n38.c" />
+      <ClCompile Include="n39\n39.c" />
+      <ClCompile Include="n3\n3.c" />
+      <ClCompile Include="n40\n40.c" />
+      <ClCompile Include="n4\n4.c" />
+      <ClCompile Include="n5\n5.c" />
+      <ClCompile Include="n6\n6.c" />
+      <ClCompile Include="n7\n7.c" />
+      <ClCompile Include="n8\n8.c" />
+      <ClCompile Include="n9\n9.c" />
+    </ItemGroup>
+    <ItemGroup>
+      <Content Include="n10\n10.exe" />
+      <Content Include="n11\n11.exe" />
+      <Content Include="n12\n12.exe" />
+      <Content Include="n13\n13.exe" />
+      <Content Include="n14\n14.exe" />
+      <Content Include="n15\n15.exe" />
+      <Content Include="n16\n16.exe" />
+      <Content Include="n17\n17.exe" />
+      <Content Include="n18\n18.exe" />
+      <Content Include="n19\n19.exe" />
+      <Content Include="n1\n1.exe" />
+      <Content Include="n20\n20.exe" />
+      <Content Include="n22\n22.exe" />
+      <Content Include="n23\n23.exe" />
+      <Content Include="n24\n24.exe" />
+      <Content Include="n25\n25.exe" />
+      <Content Include="n26\n26.exe" />
+      <Content Include="n27\n27.exe" />
+      <Content Include="n28\n28.exe" />
+      <Content Include="n29\n29.exe" />
+      <Content Include="n2\n2.exe" />
+      <Content Include="n30\n30.exe" />
+      <Content Include="n31\n31.exe" />
+      <Content Include="n32\n32.exe" />
+      <Content Include="n33\n33.exe" />
+      <Content Include="n34\n34.exe" />
+      <Content Include="n35\n35.exe" />
+      <Content Include="n36\n36.exe" />
+      <Content Include="n37\n37.exe" />
+      <Content Include="n38\n38.exe" />
+      <Content Include="n39\n39.exe" />
+      <Content Include="n3\n3.exe" />
+      <Content Include="n40\n40.exe" />
+      <Content Include="n4\n4.exe" />
+      <Content Include="n5\n5.exe" />
+      <Content Include="n6\n6.exe" />
+      <Content Include="n7\n7.exe" />
+      <Content Include="n8\n8.exe" />
+      <Content Include="n9\n9.exe" />
+    </ItemGroup>
+    <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+    <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+
+</Project>
