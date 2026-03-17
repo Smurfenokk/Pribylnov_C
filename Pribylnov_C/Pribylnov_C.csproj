@@ -70,7 +70,12 @@
       <ClCompile Include="n33\n33.c" />
       <ClCompile Include="n34\n34.c" />
       <ClCompile Include="n35\n35.c" />
+      <ClCompile Include="n36\n36.c" />
+      <ClCompile Include="n37\n37.c" />
+      <ClCompile Include="n38\n38.c" />
+      <ClCompile Include="n39\n39.c" />
       <ClCompile Include="n3\n3.c" />
+      <ClCompile Include="n40\n40.c" />
       <ClCompile Include="n4\n4.c" />
       <ClCompile Include="n5\n5.c" />
       <ClCompile Include="n6\n6.c" />
@@ -106,7 +111,12 @@
       <Content Include="n33\n33.exe" />
       <Content Include="n34\n34.exe" />
       <Content Include="n35\n35.exe" />
+      <Content Include="n36\n36.exe" />
+      <Content Include="n37\n37.exe" />
+      <Content Include="n38\n38.exe" />
+      <Content Include="n39\n39.exe" />
       <Content Include="n3\n3.exe" />
+      <Content Include="n40\n40.exe" />
       <Content Include="n4\n4.exe" />
       <Content Include="n5\n5.exe" />
       <Content Include="n6\n6.exe" />
