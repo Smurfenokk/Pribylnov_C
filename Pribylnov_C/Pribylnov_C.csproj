@@ -39,7 +39,7 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="Properties\AssemblyInfo.cs"/>
+        <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
       <ClCompile Include="Practice_1\n10\n10.c" />
@@ -111,6 +111,59 @@
       <ClCompile Include="Practice_2\n7\n7.c" />
       <ClCompile Include="Practice_2\n8\n8.c" />
       <ClCompile Include="Practice_2\n9\n9.c" />
+      <ClCompile Include="Practice_3\n10\n10.c" />
+      <ClCompile Include="Practice_3\n11\n11.c" />
+      <ClCompile Include="Practice_3\n12\n12.c" />
+      <ClCompile Include="Practice_3\n13\n13.c" />
+      <ClCompile Include="Practice_3\n14\n14.c" />
+      <ClCompile Include="Practice_3\n15\n15.c" />
+      <ClCompile Include="Practice_3\n16\n16.c" />
+      <ClCompile Include="Practice_3\n17\n17.c" />
+      <ClCompile Include="Practice_3\n18\n18.c" />
+      <ClCompile Include="Practice_3\n19\n19.c" />
+      <ClCompile Include="Practice_3\n1\n1.c" />
+      <ClCompile Include="Practice_3\n20\n20.c" />
+      <ClCompile Include="Practice_3\n21\n21.c" />
+      <ClCompile Include="Practice_3\n22\n22.c" />
+      <ClCompile Include="Practice_3\n23\n23.c" />
+      <ClCompile Include="Practice_3\n24\n24.c" />
+      <ClCompile Include="Practice_3\n25\n25.c" />
+      <ClCompile Include="Practice_3\n26\n26.c" />
+      <ClCompile Include="Practice_3\n27\n27.c" />
+      <ClCompile Include="Practice_3\n28\n28.c" />
+      <ClCompile Include="Practice_3\n29\n29.c" />
+      <ClCompile Include="Practice_3\n2\n2.c" />
+      <ClCompile Include="Practice_3\n30\n30.c" />
+      <ClCompile Include="Practice_3\n3\n3.c" />
+      <ClCompile Include="Practice_3\n4\n4.c" />
+      <ClCompile Include="Practice_3\n5\n5.c" />
+      <ClCompile Include="Practice_3\n6\n6.c" />
+      <ClCompile Include="Practice_3\n7\n7.c" />
+      <ClCompile Include="Practice_3\n8\n8.c" />
+      <ClCompile Include="Practice_3\n9\n9.c" />
+      <ClCompile Include="Practice_4\n10\n10.c" />
+      <ClCompile Include="Practice_4\n11\n11.c" />
+      <ClCompile Include="Practice_4\n12\n12.c" />
+      <ClCompile Include="Practice_4\n13\n13.c" />
+      <ClCompile Include="Practice_4\n14\n14.c" />
+      <ClCompile Include="Practice_4\n15\n15.c" />
+      <ClCompile Include="Practice_4\n16\n16.c" />
+      <ClCompile Include="Practice_4\n17\n17.c" />
+      <ClCompile Include="Practice_4\n18\n18.c" />
+      <ClCompile Include="Practice_4\n19\n19.c" />
+      <ClCompile Include="Practice_4\n1\n1.c" />
+      <ClCompile Include="Practice_4\n20\n20.c" />
+      <ClCompile Include="Practice_4\n21\n21.c" />
+      <ClCompile Include="Practice_4\n2\n2.c" />
+      <ClCompile Include="Practice_4\n3\n3.c" />
+      <ClCompile Include="Practice_4\n4\n4.c" />
+      <ClCompile Include="Practice_4\n5\n5.c" />
+      <ClCompile Include="Practice_4\n6\n6.c" />
+      <ClCompile Include="Practice_4\n7\n7.c" />
+      <ClCompile Include="Practice_4\n8\n8.c" />
+      <ClCompile Include="Practice_4\n9\n9.c" />
+      <ClCompile Include="Practice_5\n2\n2.c" />
+      <ClCompile Include="Practice_5\n3\n3.c" />
     </ItemGroup>
     <ItemGroup>
       <Content Include="Practice_1\n10\n10.exe" />
@@ -182,9 +235,54 @@
       <Content Include="Practice_2\n7\n7.exe" />
       <Content Include="Practice_2\n8\n8.exe" />
       <Content Include="Practice_2\n9\n9.exe" />
+      <Content Include="Practice_3\n10\n10.exe" />
+      <Content Include="Practice_3\n11\n11.exe" />
+      <Content Include="Practice_3\n12\n12.exe" />
+      <Content Include="Practice_3\n13\n13.exe" />
+      <Content Include="Practice_3\n14\n14.exe" />
+      <Content Include="Practice_3\n15\n15.exe" />
+      <Content Include="Practice_3\n16\n16.exe" />
+      <Content Include="Practice_3\n17\n17.exe" />
+      <Content Include="Practice_3\n18\n18.exe" />
+      <Content Include="Practice_3\n19\n19.exe" />
+      <Content Include="Practice_3\n1\n1.exe" />
+      <Content Include="Practice_3\n20\n20.exe" />
+      <Content Include="Practice_3\n21\n21.exe" />
+      <Content Include="Practice_3\n22\n22.exe" />
+      <Content Include="Practice_3\n23\n23.exe" />
+      <Content Include="Practice_3\n2\n2.exe" />
+      <Content Include="Practice_3\n3\n3.exe" />
+      <Content Include="Practice_3\n4\n4.exe" />
+      <Content Include="Practice_3\n5\n5.exe" />
+      <Content Include="Practice_3\n6\n6.exe" />
+      <Content Include="Practice_3\n7\n7.exe" />
+      <Content Include="Practice_3\n8\n8.exe" />
+      <Content Include="Practice_3\n9\n9.exe" />
+      <Content Include="Practice_4\n10\n10.exe" />
+      <Content Include="Practice_4\n11\n11.exe" />
+      <Content Include="Practice_4\n12\n12.exe" />
+      <Content Include="Practice_4\n13\n13.exe" />
+      <Content Include="Practice_4\n14\n14.exe" />
+      <Content Include="Practice_4\n15\n15.exe" />
+      <Content Include="Practice_4\n16\n16.exe" />
+      <Content Include="Practice_4\n17\n17.exe" />
+      <Content Include="Practice_4\n18\n18.exe" />
+      <Content Include="Practice_4\n19\n19.exe" />
+      <Content Include="Practice_4\n1\n1.exe" />
+      <Content Include="Practice_4\n20\n20.exe" />
+      <Content Include="Practice_4\n21\n21.exe" />
+      <Content Include="Practice_4\n2\n2.exe" />
+      <Content Include="Practice_4\n3\n3.exe" />
+      <Content Include="Practice_4\n4\n4.exe" />
+      <Content Include="Practice_4\n5\n5.exe" />
+      <Content Include="Practice_4\n6\n6.exe" />
+      <Content Include="Practice_4\n7\n7.exe" />
+      <Content Include="Practice_4\n8\n8.exe" />
+      <Content Include="Practice_4\n9\n9.exe" />
     </ItemGroup>
     <ItemGroup>
       <Folder Include="Practice_1\" />
+      <Folder Include="Practice_5\n1\" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
